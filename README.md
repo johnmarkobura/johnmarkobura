@@ -17,7 +17,7 @@ Soldering - In Progress, Circuit Debugging & Prototyping (Soldering – In Progr
 Design (Verilog, FPGA Logic, ASIC Flow) - In Progress, Arduino microcontroller & embedded systems (IR
 sensor integration, control logic design), Computer architecture - In Progress, Digital circuits (CMOS
 transistors, logic gate design) - In Progress
-**Soft Skills**: Leadership, Strong communicator, Quick learner, Resilient problem-solver, Collaborative team
+- **Soft Skills**: Leadership, Strong communicator, Quick learner, Resilient problem-solver, Collaborative team
 player with a hunger for challenge. Thrive under ambiguity and iteration  
    
 
