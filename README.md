@@ -10,9 +10,16 @@
 - Experimenting with **Numerical Simulation** and **Control Systems** (Python, MATLAB)
 
 # Technical Skills
-- **Programming:** Python, MATLAB, C/C++, Verilog (in progress)  
-- **Hardware & Simulation:** Arduino, SolidWorks, Circuits, VLSI Fundamentals  
-- **GPU Computing:** CUDA Python(Intro), PyTorch (Intro)   
+- **Programming:** Python(NumPy, Matplotlib, Supervision), C/C++ (Arduino, low-level control logic), MATLAB,
+Git/GitHub, R
+- **Hardware & Simulation:** SolidWorks, MATLAB (Numerical Modeling, Regression, Scheduling Algorithms),
+Soldering - In Progress, Circuit Debugging & Prototyping (Soldering – In Progress), Digital Logic Design, VLSI
+Design (Verilog, FPGA Logic, ASIC Flow) - In Progress, Arduino microcontroller & embedded systems (IR
+sensor integration, control logic design), Computer architecture - In Progress, Digital circuits (CMOS
+transistors, logic gate design) - In Progress
+**Soft Skills**: Leadership, Strong communicator, Quick learner, Resilient problem-solver, Collaborative team
+player with a hunger for challenge. Thrive under ambiguity and iteration  
+   
 
 **Featured Projects**
 - **Maze-Solving Robot (Arduino C++)** – Infrared navigation and servo control  
