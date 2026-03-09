@@ -1,12 +1,10 @@
 # Hi, I'm John Mark Obura
 
-**Electrical & Mathematics Double Major (Honors)** at Oral Roberts University  
-**Undergraduate Research Assistant** – Computer Vision & AI (Python, Supervision)  
+**Electrical & Mathematics Double Major (Honors)** at Oral Roberts University    
 **Aspiring Hardware Engineer** – exploring CUDA, Verilog HDL, and Embedded Systems
 
 # Current Focus
-- Learning **GPU Computing (CUDA Python)** and **VLSI Hardware Design (Verilog HDL)**  
-- Developing **Computer Vision pipelines** for sports analytics (College Basketball team Project)  
+- Learning **GPU Computing (CUDA Python)** and **VLSI Hardware Design (Verilog HDL)**    
 - Experimenting with **Numerical Simulation** and **Control Systems** (Python, MATLAB)
 
 # Technical Skills
@@ -28,4 +26,4 @@ player with a hunger for challenge. Thrive under ambiguity and iteration
 - **SolidWorks Mechanical Design** – 3D modeling and assembly visualization  
 
 **Connect with me:**  
-[LinkedIn](www.linkedin.com/in/johnmarkobura) • [Email](mailto:johnmarkobura1@gmail.com)
+[LinkedIn](www.linkedin.com/in/johnmarkobura) • [Email](mailto:oburajohnmark7@gmail.com)
