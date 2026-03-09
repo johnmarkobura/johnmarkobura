@@ -23,7 +23,8 @@ player with a hunger for challenge. Thrive under ambiguity and iteration
 - **Maze-Solving Robot (Arduino C++)** – Infrared navigation and servo control  
 - **Bridge Dynamics Simulation (Python)** – RK4 integration for structural vibration  
 - **MATLAB Regression Model** – Data fitting for motion estimation  
-- **SolidWorks Mechanical Design** – 3D modeling and assembly visualization  
+- **SolidWorks Mechanical Design** – 3D modeling and assembly visualization
+- **Heart Failure Mortality Prediction (R)** – Logistic regression modeling, ROC/AUC analysis, and cross-validation on clinical data to predict patient mortality risk
 
 **Connect with me:**  
 [LinkedIn](www.linkedin.com/in/johnmarkobura) • [Email](mailto:oburajohnmark7@gmail.com)
