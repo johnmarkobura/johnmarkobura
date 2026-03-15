@@ -4,6 +4,7 @@
 **Aspiring Hardware Engineer** – exploring CUDA, Verilog HDL, and Embedded Systems
 
 # Current Focus
+- Learning ASIC design
 - Learning **GPU Computing (CUDA Python)** and **VLSI Hardware Design (Verilog HDL)**    
 - Experimenting with **Numerical Simulation** and **Control Systems** (Python, MATLAB)
 
